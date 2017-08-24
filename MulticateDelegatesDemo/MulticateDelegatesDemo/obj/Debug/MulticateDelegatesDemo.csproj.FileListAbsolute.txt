@@ -1,0 +1,6 @@
+F:\TL rump up program\TP-Rump-up-program\MulticateDelegatesDemo\MulticateDelegatesDemo\bin\Debug\MulticateDelegatesDemo.exe.config
+F:\TL rump up program\TP-Rump-up-program\MulticateDelegatesDemo\MulticateDelegatesDemo\obj\Debug\MulticateDelegatesDemo.csprojResolveAssemblyReference.cache
+F:\TL rump up program\TP-Rump-up-program\MulticateDelegatesDemo\MulticateDelegatesDemo\bin\Debug\MulticateDelegatesDemo.exe
+F:\TL rump up program\TP-Rump-up-program\MulticateDelegatesDemo\MulticateDelegatesDemo\bin\Debug\MulticateDelegatesDemo.pdb
+F:\TL rump up program\TP-Rump-up-program\MulticateDelegatesDemo\MulticateDelegatesDemo\obj\Debug\MulticateDelegatesDemo.exe
+F:\TL rump up program\TP-Rump-up-program\MulticateDelegatesDemo\MulticateDelegatesDemo\obj\Debug\MulticateDelegatesDemo.pdb
