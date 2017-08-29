@@ -1,0 +1,10 @@
+D:\Repository\TP-Rump-up-program\LiskovCodeContract\LiskovCodeContract\bin\Debug\LiskovCodeContract.exe.config
+D:\Repository\TP-Rump-up-program\LiskovCodeContract\LiskovCodeContract\bin\Debug\LiskovCodeContract.exe
+D:\Repository\TP-Rump-up-program\LiskovCodeContract\LiskovCodeContract\bin\Debug\LiskovCodeContract.pdb
+D:\Repository\TP-Rump-up-program\LiskovCodeContract\LiskovCodeContract\obj\Debug\LiskovCodeContract.csprojResolveAssemblyReference.cache
+D:\Repository\TP-Rump-up-program\LiskovCodeContract\LiskovCodeContract\obj\Debug\LiskovCodeContract.exe
+D:\Repository\TP-Rump-up-program\LiskovCodeContract\LiskovCodeContract\obj\Debug\LiskovCodeContract.pdb
+D:\Repository\TP-Rump-up-program\LiskovCodeContract\LiskovCodeContract\obj\Debug\LiskovCodeContract.rewritten
+D:\Repository\TP-Rump-up-program\LiskovCodeContract\LiskovCodeContract\obj\Debug\Decl\LiskovCodeContract.exe
+D:\Repository\TP-Rump-up-program\LiskovCodeContract\LiskovCodeContract\obj\Debug\Decl\LiskovCodeContract.pdb
+D:\Repository\TP-Rump-up-program\LiskovCodeContract\LiskovCodeContract\obj\Debug\CodeContractAnalysisRun.log
