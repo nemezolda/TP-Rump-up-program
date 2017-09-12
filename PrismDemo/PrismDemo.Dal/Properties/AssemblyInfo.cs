@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("LiskovCodeContract")]
+[assembly: AssemblyTitle("PrismDemo.Dal")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("LiskovCodeContract")]
+[assembly: AssemblyProduct("PrismDemo.Dal")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("cf1e843f-665b-496d-8835-8621bb29bd80")]
+[assembly: Guid("250249ab-1590-488d-84f4-560b61bb52a3")]
 
 // Version information for an assembly consists of the following four values:
 //
